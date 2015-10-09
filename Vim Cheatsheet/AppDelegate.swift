@@ -27,6 +27,7 @@ class AppDelegate: NSObject, NSApplicationDelegate {
         
         window.contentView!.addSubview(cheatsheetViewController.view)
         cheatsheetViewController.view.frame = (window.contentView! as NSView).bounds
+        window.center()
     }
 
     func applicationWillTerminate(aNotification: NSNotification) {

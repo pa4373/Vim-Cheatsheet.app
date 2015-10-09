@@ -19,11 +19,11 @@
                 <imageView fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="ZX6-BH-8pi">
                     <rect key="frame" x="0.0" y="0.0" width="948" height="670"/>
                     <animations/>
-                    <imageCell key="cell" refusesFirstResponder="YES" alignment="left" animates="YES" imageAlignment="bottomRight" imageScaling="proportionallyDown" image="Cheatsheet" id="nAp-RV-Bae"/>
+                    <imageCell key="cell" refusesFirstResponder="YES" alignment="left" animates="YES" imageScaling="proportionallyDown" image="Cheatsheet" id="nAp-RV-Bae"/>
                 </imageView>
             </subviews>
             <animations/>
-            <point key="canvasLocation" x="587" y="554"/>
+            <point key="canvasLocation" x="60" y="31"/>
         </customView>
     </objects>
     <resources>
