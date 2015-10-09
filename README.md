@@ -1,13 +1,13 @@
 Vim Cheatsheet
 ==============
-Vim Cheatsheet is a simple OS X app that display vim cheatsheet when you need
-it most. It's intented to be bound to your vim shortcut.
+Vim Cheatsheet is a simple OS X app that displays vim cheatsheet. It's intented
+to be bound to your vim shortcut.
 
 ![screenshot](http://i.imgur.com/mQmIzIn.jpg)
 
 Download
 --------
-Please visit [here](#) to get precompiled binary.
+Please visit [here](./releases) to get precompiled binary.
 
 Installation
 ------------
@@ -18,7 +18,7 @@ Installation
 map <F1> :silent !open '/Applications/Vim Cheatsheet.app/'<CR>
 ```
 
-3. Open the cheatsheet with `F1`, press `Return` to quit the app.
+3. Open the cheatsheet with `F1` in vim, press `Return` to quit the app.
 
 Build from Source
 -----------------
