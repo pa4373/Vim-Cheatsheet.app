@@ -23,7 +23,7 @@ map <F1> :silent !open '/Applications/Vim Cheatsheet.app/'<CR>
 Build from Source
 -----------------
 1. Clone the repository to the local machine
-2. With XCode, use the following command to build:
+2. With Xcode, use the following command to build:
 `$ xcodebuild /PATH/TO/PROJECT`
 
 References
